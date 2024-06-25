@@ -27,7 +27,50 @@ header nav ul li {
 }
 header nav ul a {
   text-decoration: none;
-  color: rgb(12, 4, 33);
+  font-family: "Krona One", sans-serif;
+  font-size: 1rem;
+  color: #0C0421;
   font-weight: 500;
-  font-family: "Montsserat", sans-serif;
+}
+header #home {
+  max-width: 1040px;
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header #home .textos-home {
+  max-width: 464px;
+}
+header #home .textos-home h1 {
+  font-size: 42px;
+  color: #0C0421;
+  margin-bottom: 2rem;
+  font-family: "Krona One", sans-serif;
+}
+header #home .textos-home h1 span {
+  color: #4e75ff;
+}
+header #home .textos-home .btn-main {
+  font-family: "Montserrat", sans-serif;
+  color: #FFFFFF;
+  background-color: #4e75ff;
+  padding: 1rem 2.5rem;
+  border-radius: 3rem;
+  font-size: 22px;
+  font-weight: 600;
+  border-color: #4e75ff;
+  border-style: none;
+}
+header #home .img-home {
+  max-width: 474px;
+}
+header #home .img-home img {
+  width: 100%;
+}
+
+#nosso-espaco {
+  margin: 0 auto;
+  width: 80%;
 }/*# sourceMappingURL=styles.css.map */
