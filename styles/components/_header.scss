@@ -23,7 +23,12 @@ header {
                 text-decoration: none;
                 @include mixins.ff-fs-cl(variaveis.$ft-titulos, 1rem, variaveis.$cor-primaria);
                 font-weight: 500;
+                transition: font-weight 0.3s;
+                &:hover{
+                    font-weight: bold;
+                }
             }
+            
         }
     }
     #home{
@@ -46,13 +51,17 @@ header {
             .btn-main{
                 font-family: variaveis.$ft_textos;
                 color: variaveis.$cor-btn;
-                background-color: variaveis.$cor-secundaria;
+                background-color: variaveis.$cor-terciaria;
                 padding: 1rem 2.5rem;
                 border-radius: 3rem;
                 font-size: 22px;
                 font-weight: 600;
                 border-color: variaveis.$cor-secundaria;
                 border-style: none;
+                transition: 0.3s;
+                &:hover{
+                    background-color: variaveis.$cor-secundaria;
+                }
             }
         }
         .img-home{
