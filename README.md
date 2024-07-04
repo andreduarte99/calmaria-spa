@@ -6,11 +6,12 @@ Projeto em HTML e CSS do Calmaria Spa. Desafio da formação de SASS e CSS: esti
 | -------------  | --- |
 | :sparkles: Nome        | **Calmaria Spa**
 | :label: Tecnologias | HTML e CSS.
-| :rocket: URL         | https://andreduarte99.github.io/WaveCast/
+| :rocket: URL         | https://andreduarte99.github.io/calmaria-spa/
 | :fire: Desafio     | https://cursos.alura.com.br/course/sass-css-estilizando-site
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
+![Captura de tela de 2024-07-03 22-50-56](https://github.com/andreduarte99/calmaria-spa/assets/42449246/7be4efbe-107d-4929-8f37-1065a9a1c763#vitrinedev)
 
 
 ## Detalhes do projeto
@@ -26,28 +27,27 @@ Projeto em HTML e CSS do Calmaria Spa. Desafio da formação de SASS e CSS: esti
     :hammer_and_wrench: Funcionalidades
 </h3>
 <p align="center">
-   :clipboard: Projeto do WAvecast construindo layouts com Grid
+   :clipboard: Projeto do Calmaria Spa utilizando pré-processador SASS.
 </p>
 <p align="center">
-   :clipboard: É possível navegar pelo site nas telas para desktops, tablets e smartphones.
+   :clipboard: É possível navegar pelo site nas telas para desktops.
 </p>
 <h3 align="center">
     :books: Aprendizado no projeto
 </h3>
 <p align="center">
-   :clipboard: Construir um site utilizando HTML e CSS.
-</p>
+   :clipboard: Folhas de estilos de fácil leitura e modularizar as folhas de estilo com partial.
 <p align="center">
-   :clipboard: Entender como interpretar um protótipo de site criado no Figma.
+   :clipboard: Criar códigos reutilizáveis com mixins, @extend e parent selector
 </p>
 <p align="center">
    :clipboard: Construindo layouts com Grid.
 </p>
 <p align="center">
-   :clipboard: Aprender utilizar media queries na construção de layouts responsivos.
+   :clipboard: Utilizar variáveis para colorir e ajustar o layout de uma landing page.
 </p>
 <p align="center">
-   :clipboard: Realizar o deploy de um site através do Github Pages.
+   :clipboard: Fazer operações matemáticas para construir layouts.
 </p>
 <h3 align="center"> 
     Autor: André Duarte
